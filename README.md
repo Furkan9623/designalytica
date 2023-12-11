@@ -10,7 +10,7 @@
  Backend local server- http://localhost:5000
 
 
-`*` I've created a web application using React JS that allows users to add the two number and download pdf:
+`*` I've created a web application using React JS and Node js, Express js that allows users to add the two number and download pdf:
 
 `1` Form Component: Manages user input. <br>
 
