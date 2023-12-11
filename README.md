@@ -57,6 +57,11 @@
 ![resultpage](https://github.com/Furkan9623/designalytica/assets/109727423/9132da75-011c-47d5-ae86-5bb3b00ec1e4)
 
 
+ #  Pdf Page Page:
+ 
+![pdfresult](https://github.com/Furkan9623/designalytica/assets/109727423/7bfb27b6-9b70-452b-bceb-77b285f0c530)
+
+
  
  # Download pdf file:
  
